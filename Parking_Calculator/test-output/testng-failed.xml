@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestCase_1">
+        <methods>
+          <include name="Initialize_Test"/>
+          <include name="Close_Test"/>
+          <include name="ShortTermParking_WithValidDates"/>
+        </methods>
+      </class> <!-- TestCase_1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

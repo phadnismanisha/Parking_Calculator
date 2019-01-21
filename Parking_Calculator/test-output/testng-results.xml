@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7386" started-at="2019-01-20T07:27:48Z" finished-at="2019-01-20T07:27:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7386" started-at="2019-01-20T07:27:48Z" finished-at="2019-01-20T07:27:55Z">
+      <class name="Parking_Calc_Tests.TestCase_1">
+        <test-method status="PASS" signature="Initialize_Test()[pri:0, instance:Parking_Calc_Tests.TestCase_1@5cc7c2a6]" name="Initialize_Test" is-config="true" duration-ms="4969" started-at="2019-01-19T23:27:48Z" finished-at="2019-01-19T23:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize_Test -->
+        <test-method status="PASS" signature="ShortTermParking_WithValidDates()[pri:0, instance:Parking_Calc_Tests.TestCase_1@5cc7c2a6]" name="ShortTermParking_WithValidDates" duration-ms="1643" started-at="2019-01-19T23:27:53Z" finished-at="2019-01-19T23:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShortTermParking_WithValidDates -->
+        <test-method status="PASS" signature="Close_Driver()[pri:0, instance:Parking_Calc_Tests.TestCase_1@5cc7c2a6]" name="Close_Driver" is-config="true" duration-ms="756" started-at="2019-01-19T23:27:55Z" finished-at="2019-01-19T23:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Driver -->
+      </class> <!-- Parking_Calc_Tests.TestCase_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
